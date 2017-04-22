@@ -1,0 +1,844 @@
+{
+	"folder_history":
+	[
+		"/media/HDD/dev/honeymoney",
+		"/media/HDD/dev/bushinote",
+		"/media/HDD/dev/docker/bushinote",
+		"/media/HDD/dev/shell_scripts"
+	],
+	"last_version": 3126,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1061.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "me",
+				"selected_items":
+				[
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 493.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bushikot/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scree",
+					"prtsc",
+					"$mod+l",
+					"lock",
+					"border",
+					""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 309.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1920.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"CU",
+						"CURRENT_PERCENT"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bushikot/.i3/config",
+					"settings":
+					{
+						"buffer_size": 8886,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bushikot/Dropbox/Notes/dev/docker/tips_and_tricks",
+					"settings":
+					{
+						"buffer_size": 1544,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "Docker tips"
+					}
+				},
+				{
+					"file": "/home/bushikot/Dropbox/Notes/dev/highload_stuff",
+					"settings":
+					{
+						"buffer_size": 1713,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/bushikot/Dropbox/Notes/daily_fiction/fucking_bunch_of_links",
+					"settings":
+					{
+						"buffer_size": 30133,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/bushikot/Dropbox/Notes/daily_fiction/what_i_want",
+					"settings":
+					{
+						"buffer_size": 3076,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/bushikot/Dropbox/Notes/linux/i3",
+					"settings":
+					{
+						"buffer_size": 874,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": " Cool stuff\n cat ~/.ssh/id_rsa.pub | xclip -sel clip\n\n Please look over the ~/.zshrc file to select plugins, themes, and options.\n\n Then if you open source your solution you’ll learn a ton about what it means to open source a project: add testing, continuous integration, releases (I recommend you automate that with the aforementioned semantic-release module), and so much more.\n\n We build pretty cool book reader app for dingoox(linux-based handheld gaming console)  with my friend. It's written in pure C and uses libagar for UI.\n\n wine ~/.wine/drive_c/Program\\ Files\\ \\(x86\\)/Personal\\ Finances\\ Home/PersonalFinances.exe",
+					"settings":
+					{
+						"buffer_size": 625,
+						"line_ending": "Unix",
+						"name": "Cool stuff"
+					}
+				},
+				{
+					"file": "/home/bushikot/Documents/ubuntu_gnome_stuff",
+					"settings":
+					{
+						"buffer_size": 433,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Очень просто http роутер\nhttps://github.com/julienschmidt/httprouter\n\nweb-framework\nhttp://gobuffalo.io/docs/getting-started\n\nКрутой http-роутер\nhttps://github.com/pressly/chi\n\nGo cheat sheet\nhttps://github.com/a8m/go-lang-cheat-sheet\n\nКучка материалов\nhttps://gobyexample.com/\n\nОбзор\nhttps://learnxinyminutes.com/docs/go/\n\nТестирование\nhttps://golang.org/pkg/testing/\n\nРекомендовано к прочтению\nhttps://golang.org/doc/effective_go.html#blank\n\nWriting Web Applications\nhttps://golang.org/doc/articles/wiki/\n\nHow Packages Work in Go\nhttps://www.goinggo.net/2013/07/how-packages-work-in-go-language.html\n\n# Go development session from Firefox\nhttps://tour.golang.org/basics/4\nhttps://golang.org/doc/\nhttps://golang.org/cmd/go/\nhttps://atom.io/packages/go-debug\nhttps://gobyexample.com/\nhttps://learnxinyminutes.com/docs/go/\nhttps://golang.org/doc/effective_go.html#blank\nhttps://github.com/mammenj/goboot/\nhttps://golang.org/ref/spec\nhttps://github.com/a8m/go-lang-cheat-sheet\nhttps://godoc.org/labix.org/v2/mgo\nhttp://stackoverflow.com/questions/742013/how-to-code-a-url-shortener\nhttps://www.youtube.com/watch?v=eTjNtNnVOGY\nhttps://rominirani.com/setup-go-development-environment-with-atom-editor-a87a12366fcf#.yuqnspiyj\nhttps://www.youtube.com/watch?v=OVBvOuxbpHA\nhttps://github.com/julienschmidt/httprouter\n",
+					"file": "/home/bushikot/Dropbox/Notes/dev/go/index",
+					"file_size": 1392,
+					"file_write_time": 131351149085184784,
+					"settings":
+					{
+						"buffer_size": 1309,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "Очень просто http роутер"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 38.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"add fol",
+						"Project: Add Folder"
+					],
+					[
+						"pyth",
+						"Set Syntax: Python"
+					],
+					[
+						"set syn doc",
+						"Set Syntax: Dockerfile"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					]
+				],
+				"width": 493.0
+			},
+			"console":
+			{
+				"height": 341.0,
+				"history":
+				[
+					"def (x, y):",
+					"'fgfdg'",
+					"dfgdsf",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/media/HDD/dev/honeymoney"
+			],
+			"file_history":
+			[
+				"/home/bushikot/Downloads/umka_power2.txt",
+				"/home/bushikot/Downloads/umka_power.txt",
+				"/media/HDD/dev/logistics/app.carprice/Api/Helpers/ApiQueryBuilder.php",
+				"/media/HDD/dev/logistics/app.carprice/Api/Helpers/ApiRequestParams.php",
+				"/media/HDD/dev/logistics/app.carprice/Core/Models/Car.php",
+				"/media/HDD/dev/logistics/app.carprice/Core/Models/LogisticStatusTrait.php",
+				"/media/HDD/dev/logistics/app.carprice/Api/Helpers/ApiProfiles/CarListUpdatedPeriod.php",
+				"/media/HDD/dev/logistics/app.carprice/Api/Helpers/ApiProfiles/QaAppCarList.php",
+				"/media/HDD/dev/jwtauth/src/Http/Middleware/CheckAuthAbstract.php",
+				"/media/HDD/dev/jwtauth/src/Http/Middleware/CheckAuth.php",
+				"/media/HDD/dev/jwtauth/src/Http/Middleware/CheckAuthEmployee.php",
+				"/media/HDD/dev/jwtauth/src/JwtUser.php",
+				"/media/HDD/dev/jwtauth/src/JwtService.php",
+				"/media/HDD/dev/logistics/app.carprice/Logistics/Models/Waybill.php",
+				"/media/HDD/dev/docker/bushinote/docker-compose.yml",
+				"/media/HDD/dev/docker/bushinote/config/nginx.conf",
+				"/media/HDD/dev/docker/bushinote/images/php7-dev/Dockerfile",
+				"/media/HDD/dev/shell_scripts/install.sh",
+				"/media/HDD/dev/shell_scripts/lock_and_suspend.sh",
+				"/media/HDD/dev/shell_scripts/pixel_lock.sh",
+				"/media/HDD/Downloads/Telegram/life/index.html",
+				"/home/bushikot/Dropbox/Books/!list",
+				"/media/HDD/dev/convays_game_of_life/python_life.py",
+				"/home/bushikot/Dropbox/Notes/ideas/rave",
+				"/home/bushikot/Dropbox/Notes/quotes",
+				"/media/HDD/dev/docker/bushinote/config/php.ini",
+				"/media/HDD/dev/docker/bushinote/images/node-dev/Dockerfile",
+				"/home/bushikot/Dropbox/Notes/daily_fiction/fucking_bunch_of_links",
+				"/media/HDD/dev/docker/bushinote/config/nginx-laravel.conf",
+				"/media/HDD/dev/docker/bushinote/docker-run.sh",
+				"/media/HDD/dev/docker/bushinote/Dockerfile",
+				"/home/bushikot/.i3/config",
+				"/media/HDD/dev/docker/bushinote/containers/ubuntu/Dockerfile",
+				"/media/HDD/dev/bushinote/web/index.php",
+				"/media/HDD/dev/bushinote/web/index.html",
+				"/media/HDD/dev/docker/bushinote/config/nginx",
+				"/media/HDD/dev/docker/bushinote/containers/docker-compose.yml",
+				"/media/HDD/dev/bushinote/.gitignore",
+				"/home/bushikot/.config/i3status/config",
+				"/media/HDD/dev/shell_scripts/brightness_control.sh",
+				"/media/HDD/dev/shell_scripts/readme.md",
+				"/media/HDD/dev/shell_scripts/custom_i3status.sh",
+				"/home/bushikot/Dropbox/Notes/dev/frameworks/laravel",
+				"/home/bushikot/.i3/status",
+				"/home/bushikot/Documents/ubuntu_gnome_stuff",
+				"/media/HDD/dev/shell_scripts/brightness_get.sh",
+				"/home/bushikot/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"vim",
+					"AUTH_EMPLOYEE",
+					"sort",
+					"desc",
+					"patte",
+					"=>",
+					"{",
+					"patter",
+					"x",
+					"startLoop",
+					".ini",
+					"rofi",
+					"resize",
+					"fastcgi_split_path_info ^(.+\\.php)(/.+)$;",
+					"fastcgi_split_path_info ^(.+\\.php)(/.+)$;\n        fastcgi_pass php:9000;\n        fastcgi_index index.php;\n        include fastcgi_params;\n        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;\n        fastcgi_param PATH_INFO $fastcgi_path_info;",
+					"db",
+					"index",
+					"ubuntu",
+					"workspace_auto_back_and_forth",
+					"+r",
+					"on",
+					"i3sta",
+					"line",
+					"n",
+					"files",
+					"ONE_PERCENT",
+					"$MAX_VALUE/100",
+					"\";\n",
+					"♪",
+					"status",
+					"scree",
+					"prtsc",
+					"$mod+l",
+					"lock",
+					"border",
+					""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/media/HDD/dev/shell_scripts"
+				},
+				{
+					"path": "/media/HDD/dev/docker/bushinote"
+				},
+				{
+					"path": "/media/HDD/dev/bushinote"
+				},
+				{
+					"path": "/media/HDD/dev/honeymoney"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bushikot/.i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8886,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1901,
+										1901
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bushikot/Dropbox/Notes/dev/docker/tips_and_tricks",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1544,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										540,
+										540
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Docker tips",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/bushikot/Dropbox/Notes/dev/highload_stuff",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1713,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										972,
+										972
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/bushikot/Dropbox/Notes/daily_fiction/fucking_bunch_of_links",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 30133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										30133,
+										30133
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 12953.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/bushikot/Dropbox/Notes/daily_fiction/what_i_want",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3076,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1923,
+										1923
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/bushikot/Dropbox/Notes/linux/i3",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 874,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										628,
+										628
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 625,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										625,
+										625
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Cool stuff",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/bushikot/Documents/ubuntu_gnome_stuff",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 433,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										135,
+										135
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/bushikot/Dropbox/Notes/dev/go/index",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1309,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										277,
+										277
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Очень просто http роутер",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 254.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,19,1920,1080,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 309.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

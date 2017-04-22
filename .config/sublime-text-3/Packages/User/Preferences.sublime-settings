@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Monokai - Spacegray",
+		"Vintage"
+	],
+	"theme": "Spacegray.sublime-theme"
+}
